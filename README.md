@@ -1,5 +1,3 @@
-Sure! Here's an example of a README file for the HTML and CSS code you provided:
-
 # Simple Landing Page
 
 This is a simple landing page template consisting of HTML and CSS code. It is designed to create a visually appealing and responsive landing page for a website.
