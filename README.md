@@ -34,7 +34,7 @@ The landing page is designed to be responsive, meaning it adapts to different sc
 
 Here's an example of how the landing page may look:
 
-![Example Landing Page]((https://github.com/theamaan/html_css_10min_homePage/assets/90848726/e1c42170-7ca2-4739-927b-4ae948629a89))
+![Screenshot (126)](https://github.com/theamaan/html_css_10min_homePage/assets/90848726/e1c42170-7ca2-4739-927b-4ae948629a89)
 
 ## Credits
 
